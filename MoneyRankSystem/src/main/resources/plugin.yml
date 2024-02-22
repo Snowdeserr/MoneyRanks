@@ -11,11 +11,11 @@ commands:
   checkmoney:
     description: Check the money and rank of a player.
     usage: /checkmoney [player]
-  tierlistreload:
+  moneyreload:
     description: Reload the TierList config.
-    usage: /tierlistreload
+    usage: /moneyreload
 
 permissions:
-  tierlist.reload: # Permission to reload the config
+  tierlist.reload:
     description: Allows the player to reload the TierList config.
     default: op
