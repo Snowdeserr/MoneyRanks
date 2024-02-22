@@ -1,0 +1,21 @@
+name: MoneyRankSystem
+version: '${project.version}'
+main: me.skythebuilder.moneyranksystem.TierListPlugin
+api-version: '1.20'
+
+depend:
+  - Vault
+  - PlaceholderAPI
+
+commands:
+  checkmoney:
+    description: Check the money and rank of a player.
+    usage: /checkmoney [player]
+  tierlistreload:
+    description: Reload the TierList config.
+    usage: /tierlistreload
+
+permissions:
+  tierlist.reload: # Permission to reload the config
+    description: Allows the player to reload the TierList config.
+    default: op

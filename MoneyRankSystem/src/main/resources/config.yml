@@ -1,0 +1,163 @@
+ranks:
+  newbie:
+    moneyRequired: 0
+    prefix: "&7[Newbie]"
+  starter:
+    moneyRequired: 100
+    prefix: "&7[Starter]"
+  copper:
+    moneyRequired: 250
+    prefix: "&6[Copper]"
+  bronze:
+    moneyRequired: 500
+    prefix: "&4[Bronze]"
+  silver:
+    moneyRequired: 750
+    prefix: "&7[Silver]"
+  iron:
+    moneyRequired: 1000
+    prefix: "&f[Iron]"
+  gold:
+    moneyRequired: 1500
+    prefix: "&e[Gold]"
+  platinum:
+    moneyRequired: 2500
+    prefix: "&b[Platinum]"
+  sapphire:
+    moneyRequired: 5000
+    prefix: "&3[Sapphire]"
+  ruby:
+    moneyRequired: 7500
+    prefix: "&c[Ruby]"
+  emerald:
+    moneyRequired: 10000
+    prefix: "&a[Emerald]"
+  amethyst:
+    moneyRequired: 15000
+    prefix: "&5[Amethyst]"
+  diamond:
+    moneyRequired: 25000
+    prefix: "&b[Diamond]"
+  obsidian:
+    moneyRequired: 50000
+    prefix: "&8[Obsidian]"
+  celestial:
+    moneyRequired: 75000
+    prefix: "&9[Celestial]"
+  mythic:
+    moneyRequired: 100000
+    prefix: "&d[Mythic]"
+  divine:
+    moneyRequired: 150000
+    prefix: "&f[Divine]"
+  transcendental:
+    moneyRequired: 250000
+    prefix: "&6[Transcendental]"
+  immortal:
+    moneyRequired: 500000
+    prefix: "&4[Immortal]"
+  demigod:
+    moneyRequired: 750000
+    prefix: "&5[Demigod]"
+  ascendant:
+    moneyRequired: 1000000
+    prefix: "&e[Ascendant]"
+  legendary:
+    moneyRequired: 1500000
+    prefix: "&6[Legendary]"
+  mythical:
+    moneyRequired: 2500000
+    prefix: "&d[Mythical]"
+  godly:
+    moneyRequired: 5000000
+    prefix: "&c[Godly]"
+  transcendent:
+    moneyRequired: 7500000
+    prefix: "&5[Transcendent]"
+  divinebeing:
+    moneyRequired: 10000000
+    prefix: "&a[Divine Being]"
+  celestialelite:
+    moneyRequired: 15000000
+    prefix: "&9[Celestial Elite]"
+  ultimate:
+    moneyRequired: 20000000
+    prefix: "&4[Ultimate]"
+  master:
+    moneyRequired: 25000000
+    prefix: "&8[Master]"
+  grandmaster:
+    moneyRequired: 30000000
+    prefix: "&5[Grandmaster]"
+  overseer:
+    moneyRequired: 35000000
+    prefix: "&b[Overseer]"
+  deity:
+    moneyRequired: 40000000
+    prefix: "&d[Deity]"
+  cosmic:
+    moneyRequired: 45000000
+    prefix: "&7[Cosmic]"
+  transcendentalbeing:
+    moneyRequired: 50000000
+    prefix: "&6[Transcendental Being]"
+  eternal:
+    moneyRequired: 55000000
+    prefix: "&3[Eternal]"
+  celestialmonarch:
+    moneyRequired: 60000000
+    prefix: "&c[Celestial Monarch]"
+  sovereign:
+    moneyRequired: 65000000
+    prefix: "&9[Sovereign]"
+  omniscient:
+    moneyRequired: 70000000
+    prefix: "&a[Omniscient]"
+  infinite:
+    moneyRequired: 75000000
+    prefix: "&5[Infinite]"
+  godofall:
+    moneyRequired: 80000000
+    prefix: "&b[God of All]"
+  transcendentalmaster:
+    moneyRequired: 85000000
+    prefix: "&4[Transcendental Master]"
+  supreme:
+    moneyRequired: 90000000
+    prefix: "&e[Supreme]"
+  timeless:
+    moneyRequired: 95000000
+    prefix: "&8[Timeless]"
+  omniversal:
+    moneyRequired: 100000000
+    prefix: "&6[Omniversal]"
+  cosmicoverlord:
+    moneyRequired: 105000000
+    prefix: "&d[Cosmic Overlord]"
+  sovereignofall:
+    moneyRequired: 110000000
+    prefix: "&5[Sovereign of All]"
+  transcendentalgod:
+    moneyRequired: 115000000
+    prefix: "&a[Transcendental God]"
+  divineoverseer:
+    moneyRequired: 120000000
+    prefix: "&4[Divine Overseer]"
+  omnipotent:
+    moneyRequired: 125000000
+    prefix: "&9[Omnipotent]"
+  infinitebeing:
+    moneyRequired: 130000000
+    prefix: "&7[Infinite Being]"
+  cosmicmaster:
+    moneyRequired: 135000000
+    prefix: "&b[Cosmic Master]"
+  transcendentaloverlord:
+    moneyRequired: 140000000
+    prefix: "&e[Transcendental Overlord]"
+  eternaldeity:
+    moneyRequired: 145000000
+    prefix: "&c[Eternal Deity]"
+  celestialsovereign:
+    moneyRequired: 150000000
+    prefix: "&5[Celestial Sovereign]"
